@@ -11,7 +11,7 @@ Example if Vtuber have an organization
   - Title: [กำหนดตำแหน่งให้ทุกคนใน World End](https://www.youtube.com/watch?v=xxs--buslo4)
  
 Example if Vtuber don't have organization
-- /unknown/mairu/【🔴KARAOKE 】ร้องเพลงไทยแบบวัยรุ่น อืม วัยรุ่นแหละค่ะ.txt
+- /no-organization/mairu/【🔴KARAOKE 】ร้องเพลงไทยแบบวัยรุ่น อืม วัยรุ่นแหละค่ะ.txt
   - Organization: unknown
   - Generation: unknown
   - Vtuber: [Mairu](https://www.youtube.com/@mairu_VT)
