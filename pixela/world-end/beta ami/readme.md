@@ -12,6 +12,8 @@
 
 ---
 
+## Social media
+
 |Youtube|[@AMIWorldEnd](https://www.youtube.com/@AMIWorldEnd)|
 |---|---|
 |X|[@AMIWorldEnd](https://x.com/AMIWorldEnd)|
