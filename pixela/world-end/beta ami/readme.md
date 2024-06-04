@@ -8,7 +8,7 @@
 
 |Mama|Papa|
 |---|---|
-||[yuukihagure](https://x.com/yuukihagure)|
+|[yuukihagure](https://x.com/yuukihagure)|[@karamomokitchen](https://x.com/karamomokitchen)|
 
 ---
 
