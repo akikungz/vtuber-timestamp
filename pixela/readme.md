@@ -1,6 +1,6 @@
 # แหล่งรวม timestamp ของ Vtuber ของสังกัด [Pixela Project](https://www.youtube.com/@PixelaOfficial)
 
-![Pixela banner](https://scontent.fbkk5-7.fna.fbcdn.net/v/t39.30808-6/399402533_918046246550906_4429971440896093699_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=5f2048&_nc_ohc=fxQYHoF9GygQ7kNvgFTSLkp&_nc_ht=scontent.fbkk5-7.fna&oh=00_AYAAqKL9PCzyozEWprHcgRfUoxXaUj_D6sxxewokfVQlTg&oe=66607C51)
+![Pixela banner](./images/pixela-banner.jpg)
 
 ```txt
 ยินดีต้อนรับเข้าสู่ Pixela Official ค่าย Virtual Youtuber ที่ขายสวยขายหล่อไม่เน้นตลกจริงๆนะ

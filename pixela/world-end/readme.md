@@ -1,6 +1,6 @@
 # แหล่งรวม timestamp ของ Pixela World End
 
-![ภัยพิบัติระดับ Virtual Youtuber | Pixela World End (Eng Sub)](https://img.youtube.com/vi/Xyh7xlkYri8/0.jpg)
+![Pixela World End debut date](./images/debut-date.jpg)
 
 [ภัยพิบัติระดับ Virtual Youtuber | Pixela World End (Eng Sub)](https://www.youtube.com/watch?v=Xyh7xlkYri8)
 

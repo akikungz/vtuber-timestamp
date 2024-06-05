@@ -1,6 +1,6 @@
 # [Mild-R Ch. Pixela-World-End](https://www.youtube.com/@MildRWorldEnd)
 
-![Mild-R banner](https://scontent.fbkk5-8.fna.fbcdn.net/v/t39.30808-6/441513008_122151751508208563_2955575983640551618_n.png?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WaxkTmEjx7sQ7kNvgH1MWD0&_nc_ht=scontent.fbkk5-8.fna&oh=00_AYDFuoYzjLj3ILfNWSqqPSVgKullDtT6qu4nmqAwdx-I_A&oe=66606B64)
+![Mild-R banner](./images/mild-r-banner.png)
 
 ```txt
 มายด์อาร์ Mutant มนุษย์กลายพันธุ์ที่จะมารักษาหัวใจคุณแบบ super exclusive 
