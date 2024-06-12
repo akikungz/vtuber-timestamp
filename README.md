@@ -26,7 +26,6 @@
 
 ## ไลฟ์ที่ทำไม่เสร็จและดอง ~~(บิด)~~
 
-- [ ] pixela/legends/nezumi elze/เปิดค่ายวีทูปเบอร์ใหม่ภายใน 2 ชั่วโมง.md
 - [ ] ~~pixela/world-end/beta ami/เอมิเป็นหุ่นมาจากโลกอนาคต จริงๆนะ.md~~
 - [ ] ~~pixela/world-end/debirun/กำหนดตำแหน่งให้ทุกคนใน World End.md~~
 - [ ] pixela/world-end/kumoku tsururu/สมรุดี นพดล การละคร ft. @XonebuWorldEnd.md
